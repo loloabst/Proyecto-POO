@@ -12,11 +12,11 @@ public class VentanaEdo extends JFrame {
     private JLabel lblMunicipio;// etiqueta de Municipio
     private JLabel lblUrl;// etiqueta de URL
     private JTextField txtId;// campo de texto para Id
-    private JTextField txtEstado;// etiqueta de estado
-    private JTextField txtCapital;// etiqueta de capital
-    private JTextField txtPoblacion;// etiqueta de poblacion
-    private JTextField txtMunicipio;// etiqueta de municipio
-    private JTextField txtUrl;// etiqueta de URL
+    private JTextField txtEstado;// texto de estado
+    private JTextField txtCapital;// texto de capital
+    private JTextField txtPoblacion;// texto de poblacion
+    private JTextField txtMunicipio;// texto de municipio
+    private JTextField txtUrl;// texto de URL
     // misma funcion que los de arriba, pero para el panel 4
     private JLabel lblIdE;
     private JLabel lblEstadoE;
